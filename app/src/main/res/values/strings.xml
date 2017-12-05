@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Trabalho-3</string>
+    <string name="titulo">Titulo</string>
+    <string name="dificuldade">Dificuldade</string>
+    <string name="descricao">Descricao</string>
+    <string name="_1_a_5">1 a 5</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="nome">Nome</string>
+    <string name="cadastrar_etiqueta">Cadastrar Etiqueta</string>
+    <string name="a_fazer">A fazer</string>
+    <string name="cadastrar_tarefa">Cadastrar Tarefa</string>
+    <string name="listar_tarefa">Listar Tarefa</string>
+    <string name="editar">Editar</string>
+    <string name="remover">Remover</string>
+    <string name="listar_etiqueta">Listar Etiqueta</string>
+    <string name="estado">Estado</string>
+    <string name="associar_tag">Associar Tag</string>
+    <string name="associar">Associar</string>
+
+    <string-array name="estados">
+        <item>A fazer</item>
+        <item>Em execucao</item>
+        <item>Bloqueada</item>
+        <item>Concluida</item>
+    </string-array>
+</resources>
