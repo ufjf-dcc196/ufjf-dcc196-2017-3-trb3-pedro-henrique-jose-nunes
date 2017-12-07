@@ -16,6 +16,8 @@
     <string name="estado">Estado</string>
     <string name="associar_tag">Associar Tag</string>
     <string name="associar">Associar</string>
+    <string name="tarefa">Tarefa</string>
+    <string name="etiqueta">Etiqueta</string>
 
     <string-array name="estados">
         <item>A fazer</item>

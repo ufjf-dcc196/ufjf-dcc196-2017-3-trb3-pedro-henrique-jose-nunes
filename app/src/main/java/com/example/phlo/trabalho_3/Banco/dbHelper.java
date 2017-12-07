@@ -11,7 +11,7 @@ import com.example.phlo.trabalho_3.Banco.TarefasContract;
  */
 
 public class dbHelper extends SQLiteOpenHelper {
-    public static final int DATABASE_VERSION = 2;
+    public static final int DATABASE_VERSION = 6;
     public static final String DATABASE_NAME = "Tabelas.db";
 
     public dbHelper(Context context) {

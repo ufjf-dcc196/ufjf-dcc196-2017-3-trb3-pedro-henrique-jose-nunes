@@ -38,10 +38,8 @@ public class EtiquetaAdapter extends CursorAdapter {
         txtNome.setText(nome);
     }
 
-    @Override
-    public long getItemId(int position){
-        return position;
-    }
+
+
     public void atualizar(){
         try {
             SQLiteDatabase db = etiquetaHelper.getReadableDatabase();
