@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Trabalho 1</string>
+    <string name="Cadastro">Cadastro</string>
+    <string name="Reservar">Reservar</string>
+    <string name="CadastroParticipante">cadastro Participante</string>
+    <string name="cadastroLivro">Cadastrar Livro</string>
+    <string name="salvar">Salvar</string>
+    <string name="voltar">Voltar</string>
+    <string name="nome">Nome</string>
+    <string name="email">Email</string>
+    <string name="ano">Ano</string>
+    <string name="editora">Editora</string>
+    <string name="titulo">Titulo</string>
+    <string name="livro">Livro</string>
+    <string name="lista_reserva">Lista Reserva</string>
+    <string name="participante">Participante</string>
+    <string name="hora_saida">Hora Saida</string>
+    <string name="hora_entrada">Hora Entrada</string>
+    <string name="participantes">Participantes</string>
+</resources>
